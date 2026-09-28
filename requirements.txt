@@ -1,0 +1,6 @@
+sentence-transformers
+numpy
+python-dotenv
+google-generativeai
+gradio
+jupyter
