@@ -65,8 +65,8 @@ I wrote 13 questions, each with the ID of the one chunk that contains the answer
 ## Run it yourself
 
 ```bash
-git clone https://github.com/halabilaljaradat/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/halabilaljaradat/just-nursing-handbook-rag.git
+cd just-nursing-handbook-rag
 python -m venv venv
 venv\Scripts\activate          # Windows  (Mac/Linux: source venv/bin/activate)
 pip install -r requirements.txt
